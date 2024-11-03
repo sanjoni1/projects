@@ -1,0 +1,32 @@
+Count of 8. Which learning method do you prefer overall?,Column Labels,,,,,
+Row Labels,A hybrid of both,"Modern (online learning, EdTech tools)",No preference,"Traditional (in-person classes, books)",(blank),Grand Total
+Commerce,6,,,,,6
+Engineering/Technology,48,9,2,6,,65
+Humanities,3,,,,,3
+Other,2,1,,1,,4
+Science,10,,,4,,14
+(blank),,,,,,
+Grand Total,69,10,2,11,,92
+,,,,,,
+Row Labels,A hybrid of both,"Modern (online learning, EdTech tools)",No preference,"Traditional (in-person classes, books)",(blank),Grand Total
+,,,,,,
+,,,,,,
+Count of 8. Which learning method do you prefer overall?,Column Labels,,,,,
+Row Labels,A hybrid of both,"Modern (online learning, EdTech tools)",No preference,"Traditional (in-person classes, books)",Grand Total,
+Engineering/Technology,48,9,2,6,65,
+Non-Engineering,21,1,0,5,27,
+Grand Total,69,10,2,11,92,
+,,,,,,
+,,,,,,
+Count of 8. Which learning method do you prefer overall?,Column Labels,,,,,
+Row Labels,A hybrid of both,"Modern (online learning, EdTech tools)",No preference,"Traditional (in-person classes, books)",,
+Engineering/Technology,48.75,7.065217391,1.413043478,7.77173913,,
+Non-Engineering,20.25,2.934782609,0.586956522,3.22826087,,
+,,,,,,
+,,,,,,
+Count of 8. Which learning method do you prefer overall?,Column Labels,,,,,
+Row Labels,A hybrid of both,"Modern (online learning, EdTech tools)",No preference,"Traditional (in-person classes, books)",Grand Total,
+Engineering/Technology,0.011538462,7.065217391,0.243812709,0.403906963,7.724475524,
+Non-Engineering,0.027777778,1.275523349,0.586956522,0.972368614,2.862626263,
+Grand Total,,,,,10.58710179,
+p-value,,,,,0.014181528,
