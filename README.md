@@ -96,3 +96,17 @@ better version of it, keeping the various disadvantages identified in the survey
 education policymakers take into account what students feel is most helpful in their education,
 and attempt to make the consequent changes. As per the survey, the next step is to take measures
 to have college education taken into a hybrid mode of modern and traditional classes.
+## **Authors**
+Sanjoni Jain
+
+Electrical Engineering, Netaji Subhas University of Technology
+
+Sanjana Dewan
+
+RCC Institute of Information Technology
+
+Mentor: Agnimitra Biswas
+
+CEO, IDEAS-TIH
+
+Submitted to: IDEAS-TIH, ISI, Kolkata
